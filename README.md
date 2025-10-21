@@ -63,7 +63,11 @@ Z biblioteki zaimportowano obiekty Thread, Event i Lock, by usprawnić równoleg
 
 ---
 
+## Schemat struktury plików
+<img width="499" height="472" alt="schemat" src="https://github.com/user-attachments/assets/390527c1-da0d-4bed-a294-3b7e889a981a" />
+
 ## Schemat połączeń
+
 ![e0dd9675-cee9-4b02-9b4f-687b96b7323b](https://github.com/user-attachments/assets/5d30b374-6c1a-40c8-960a-a7334515ed83)
 
 ---
