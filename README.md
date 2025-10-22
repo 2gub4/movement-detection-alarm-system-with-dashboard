@@ -74,6 +74,6 @@ Z biblioteki zaimportowano obiekty Thread, Event i Lock, by usprawnić równoleg
 
 ## Autorzy:
 - Jakub Sosna (2gub4) - kod Python, hardware
-- Kamil Skorupski - serwer Flask, dashboard
+- Kamil Skorupski ([K3mYk](https://github.com/K3mYk)) - serwer Flask, dashboard, hardware
 
   
