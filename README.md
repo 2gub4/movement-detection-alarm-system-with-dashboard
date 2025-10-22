@@ -6,6 +6,7 @@ Serwer służy do komunikacji z dashboardem będącym aplikacją web'ową stworz
 Sterowanie odbywa się poprzez ręczne ustawianie, uzbrajanie i rozbrajanie kodem PIN, a szczegółowe informacje dostępne są przez wspomniany dashboard po połączeniu z serwerem. Korzysta z programowania asynchronicznego.
 
 Realizowany na potrzeby projektu studenckiego - 2 rok - Informatyka Stosowana
+
 ---
 
 ## Technologie
